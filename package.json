@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/devansalesforcemvp.lwc-laxl2mh8-fork-laxlpa51",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ad5xRa7wqyeTV3aBGkrP --open"
+  }
+}
